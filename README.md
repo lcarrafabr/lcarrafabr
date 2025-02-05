@@ -30,7 +30,7 @@
 
 🚀 **[bsuldo-ui](https://github.com/lcarrafabr/bsuldo-ui)**  
 🖥️ **[bsuldo-API](https://github.com/lcarrafabr/bsuldo-API)**  
-📅 **[Agenda para Psicólogos]([https://github.com/lcarrafabr/agenda-psicologia](https://github.com/lcarrafabr/psicagenda-api))**  
+📅 **[psicagenda-api](https://github.com/lcarrafabr/psicagenda-api)**
 
 💡 Explore mais repositórios no meu perfil!
 

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Lucas!</h1>
+<h1 align="center">👋 Olá, eu sou o Luciano!</h1>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, investidor curioso e criador de soluções para facilitar a vida das pessoas. 🚀

@@ -29,7 +29,7 @@
 ## 🛠️ Projetos em Destaque
 
 🚀 **[bsuldo-ui](https://github.com/lcarrafabr/bsuldo-ui)**  
-🎮 **[Jogo 2D - Unity (Fazenda)](https://github.com/lcarrafabr/unity-farm-game)**  
+🖥️ **[bsuldo-API](https://github.com/lcarrafabr/bsuldo-API)**  
 📅 **[Agenda para Psicólogos](https://github.com/lcarrafabr/agenda-psicologia)**  
 
 💡 Explore mais repositórios no meu perfil!
